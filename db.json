@@ -1,6 +1,17 @@
 {
-	"name":"john doe",
-	"email":"test@test.com",
-	"type":"latte",
-	"size":"medium"
+    "coffee" : [
+        {
+            "name":"john doe",
+            "email":"test@test.com",
+            "type":"latte",
+            "size":"medium"
+        },
+        {
+            "name":"john doe2",
+            "email":"test@test.com",
+            "type":"espressino",
+            "size":"small"
+        }
+    ]
+
 }
